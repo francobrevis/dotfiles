@@ -1,0 +1,13 @@
+[Ctrl - Space] "	# Split in half middle down
+>[Ctrl - Space] %	# Split in half middle right
+>[Ctrl - Space] arrows	# Split between windows
+
+>[Ctrl - Space] c	# Create NEW window
+>[Ctrl - Space] p	# Previous window
+>[Ctrl - Space] n	# Next window
+>[Ctrl - Space] ,	# Rename Window
+[Ctrl - Space] $	# Rename Session
+[Ctrl - Space] &	# Kill Window
+
+
+[Ctrl - Space] 
