@@ -15,7 +15,7 @@ export DEFAULT_NETWORK_INTERFACE=$(ip route | grep '^default' | awk '{print $5}'
 polybar -c ~/.config/polybar/config.ini main &
 
 # Load on second monitor if connected
-external_monitor=$(xrandr --query | grep 'HDMI-2')
-if [[ $external_monitor = HDMI-2\ connected* ]]; then
+external_monitor=$(xrandr --query | grep 'HDMI-1-0')
+if [[ $external_monitor = HDMI-1-0\ connected* ]]; then
 	polybar -c ~/.config/polybar/config.ini secondary &
 fi

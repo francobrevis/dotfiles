@@ -1,0 +1,39 @@
+2021/11/11-21:25:31.927 18cc4 Reusing MANIFEST /home/icecream/.config/Postman/Partitions/8b56b804-78ce-46b8-b182-2d0f7b76d376/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2021/11/11-21:25:31.933 18ca7 Level-0 table #5: started
+2021/11/11-21:25:31.935 18ca7 Level-0 table #5: 494 bytes OK
+2021/11/11-21:25:31.938 18ca7 Delete type=0 #3
+2021/11/11-21:25:31.938 18ca7 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/11/11-21:25:31.978 18ca5 Level-0 table #7: started
+2021/11/11-21:25:31.979 18ca5 Level-0 table #7: 476 bytes OK
+2021/11/11-21:25:31.982 18ca5 Delete type=0 #4
+2021/11/11-21:25:31.982 18ca5 Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/11/11-21:25:36.971 18ca5 Level-0 table #9: started
+2021/11/11-21:25:36.974 18ca5 Level-0 table #9: 34838 bytes OK
+2021/11/11-21:25:36.977 18ca5 Delete type=0 #6
+2021/11/11-21:25:36.977 18ca5 Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at '\x00\x05\x00\x00\x05' @ 2802 : 1
+2021/11/11-21:25:36.977 18ca5 Compacting 1@0 + 1@1 files
+2021/11/11-21:25:36.980 18ca5 Generated table #10@0: 1526 keys, 16849 bytes
+2021/11/11-21:25:36.980 18ca5 Compacted 1@0 + 1@1 files => 16849 bytes
+2021/11/11-21:25:36.983 18ca5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/11/11-21:25:36.983 18ca5 Delete type=2 #9
+2021/11/11-21:25:36.983 18ca5 Manual compaction at level-0 from '\x00\x05\x00\x00\x05' @ 2802 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/11/11-21:25:38.975 18cc2 Level-0 table #12: started
+2021/11/11-21:25:38.978 18cc2 Level-0 table #12: 221 bytes OK
+2021/11/11-21:25:38.982 18cc2 Delete type=2 #7
+2021/11/11-21:25:38.982 18cc2 Delete type=0 #8
+2021/11/11-21:25:38.983 18cc2 Manual compaction at level-0 from (begin) .. (end); will stop at '\x00\x00\x00\x002\x02\xb7\x01\x01\x00\x00\x00\x00\x00\x00\x00\x00' @ 2852 : 0
+2021/11/11-21:25:38.983 18cc2 Compacting 1@0 + 1@1 files
+2021/11/11-21:25:38.989 18cc2 Generated table #13@0: 1526 keys, 16765 bytes
+2021/11/11-21:25:38.989 18cc2 Compacted 1@0 + 1@1 files => 16765 bytes
+2021/11/11-21:25:38.993 18cc2 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/11/11-21:25:38.994 18cc2 Delete type=2 #10
+2021/11/11-21:25:38.994 18cc2 Delete type=2 #12
+2021/11/11-21:25:38.995 18cc2 Manual compaction at level-0 from '\x00\x00\x00\x002\x02\xb7\x01\x01\x00\x00\x00\x00\x00\x00\x00\x00' @ 2852 : 0 .. (end); will stop at (end)
+2021/11/11-21:25:38.996 18ca7 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x04\x01\x02\x01\x0b\x00p\x00o\x00s\x00t\x00m\x00a\x00n\x00-\x00a\x00p\x00p' @ 2809 : 1
+2021/11/11-21:25:38.996 18ca7 Compacting 1@1 + 1@2 files
+2021/11/11-21:25:39.002 18ca7 Generated table #14@1: 588 keys, 9021 bytes
+2021/11/11-21:25:39.002 18ca7 Compacted 1@1 + 1@2 files => 9021 bytes
+2021/11/11-21:25:39.006 18ca7 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/11/11-21:25:39.007 18ca7 Delete type=2 #5
+2021/11/11-21:25:39.007 18ca7 Delete type=2 #13
+2021/11/11-21:25:39.008 18ca7 Manual compaction at level-1 from '\x00\x04\x01\x02\x01\x0b\x00p\x00o\x00s\x00t\x00m\x00a\x00n\x00-\x00a\x00p\x00p' @ 2809 : 1 .. (end); will stop at (end)

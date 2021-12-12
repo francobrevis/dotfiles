@@ -1,0 +1,17 @@
+[$Version]
+update_info=spectacle_clipboard.upd:clipboard-settings-change,spectacle_newConfig.upd:spectacle-new-config
+
+[General]
+autoSaveImage=true
+clipboardGroup=PostScreenshotCopyImage
+printKeyActionRunning=FocusWindow
+useReleaseToCapture=true
+
+[GuiConfig]
+quitAfterSaveCopyExport=true
+window-position=468,328
+
+[Save]
+lastSaveAsLocation=file:///home/icecream/Pictures/Setup2022.png
+lastSaveLocation=file:///home/icecream/Pictures/Screenshot_14.png
+saveFilenameFormat=Screenshot_%T_%d

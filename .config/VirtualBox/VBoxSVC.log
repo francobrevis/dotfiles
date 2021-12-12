@@ -1,0 +1,109 @@
+00:00:00.000431 main     VirtualBox XPCOM Server 6.1.30 r148432 linux.amd64 (Nov 22 2021 16:46:06) release log
+00:00:00.000433 main     Log opened 2021-12-12T15:52:48.761981000Z
+00:00:00.000434 main     Build Type: release
+00:00:00.000438 main     OS Product: Linux
+00:00:00.000439 main     OS Release: 5.14.8-zen1-1-zen
+00:00:00.000439 main     OS Version: #1 ZEN SMP PREEMPT Sun, 26 Sep 2021 19:36:16 +0000
+00:00:00.000455 main     DMI Product Name: ROG Strix G512LW_G512LW
+00:00:00.000461 main     DMI Product Version: 1.0       
+00:00:00.000466 main     Firmware type: UEFI
+00:00:00.000614 main     Secure Boot: Disabled
+00:00:00.000643 main     Host RAM: 15785MB (15.4GB) total, 12357MB (12.0GB) available
+00:00:00.000646 main     Executable: /opt/VirtualBox/VBoxSVC
+00:00:00.000646 main     Process ID: 154698
+00:00:00.000646 main     Package type: LINUX_64BITS_GENERIC
+00:00:00.001601 main     IPC socket path: /tmp/.vbox-icecream-ipc/ipcd
+00:00:00.102817 nspr-2   VirtualBox: object creation starts
+00:00:00.102895 nspr-2   Home directory: '/home/icecream/.config/VirtualBox'
+00:00:00.103090 nspr-2   Loading settings file "/home/icecream/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:00.108694 nspr-2   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlo1: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:00:00.109099 nspr-2   HostDnsMonitor: initializing
+00:00:00.109385 nspr-2   NAT: resolv.conf: nameserver 200.28.4.130
+00:00:00.109390 nspr-2   NAT: resolv.conf: nameserver 200.28.4.129
+00:00:00.109396 nspr-2   HostDnsMonitor: updating information
+00:00:00.109403 nspr-2   HostDnsMonitor: old information
+00:00:00.109405 nspr-2     no server entries
+00:00:00.109407 nspr-2     no domain set
+00:00:00.109409 nspr-2     no search string entries
+00:00:00.109410 nspr-2   HostDnsMonitor: new information
+00:00:00.109412 nspr-2     server 1: 200.28.4.130
+00:00:00.109413 nspr-2     server 2: 200.28.4.129
+00:00:00.109415 nspr-2     no domain set
+00:00:00.109416 nspr-2     no search string entries
+00:00:00.110635 nspr-2   VD: VDInit finished with VINF_SUCCESS
+00:00:00.112859 nspr-2   Loading settings file "/home/icecream/VirtualBox VMs/windows/windows.vbox" with version "1.15-linux"
+00:00:00.113299 nspr-2   VirtualBox: object created
+00:00:00.470973 nspr-3   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:00:00.968340 nspr-2   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:00:00.969449 nspr-2   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:00:04.481668 nspr-4   Saving settings file "/home/icecream/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:04.485796 nspr-3   Saving settings file "/home/icecream/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:12:17.857091 createBase Saving settings file "/home/icecream/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:12:18.370165 nspr-4   Saving settings file "/home/icecream/VirtualBox VMs/Kali/Kali.vbox" with version "1.16-linux"
+00:12:18.372909 nspr-3   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:12:18.373311 nspr-3   Saving settings file "/home/icecream/VirtualBox VMs/Kali/Kali.vbox" with version "1.16-linux"
+00:12:18.375938 nspr-3   Saving settings file "/home/icecream/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:12:18.379696 nspr-3   Saving settings file "/home/icecream/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:12:18.382893 nspr-3   Saving settings file "/home/icecream/VirtualBox VMs/Kali/Kali.vbox" with version "1.16-linux"
+00:12:18.418507 nspr-3   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:12:18.505515 nspr-2   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:12:18.506099 nspr-2   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:12:21.216999 nspr-4   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:12:21.601107 nspr-3   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlo1: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:12:21.606485 nspr-3   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlo1: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:12:21.611418 nspr-3   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:12:21.611626 nspr-4   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:12:21.871950 nspr-3   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:12:21.872667 nspr-3   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:12:34.113445 nspr-3   Saving settings file "/home/icecream/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:12:35.242002 nspr-3   Saving settings file "/home/icecream/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:12:35.246497 nspr-2   Saving settings file "/home/icecream/VirtualBox VMs/Kali/Kali.vbox" with version "1.16-linux"
+00:12:35.310359 nspr-3   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:12:35.310524 nspr-3   Saving settings file "/home/icecream/VirtualBox VMs/Kali/Kali.vbox" with version "1.16-linux"
+00:12:35.426980 nspr-3   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:12:35.427546 nspr-3   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:12:39.740516 nspr-2   Launched VM: 671094320 pid: 177708 (0x2b62c) frontend: GUI/Qt name: Kali
+00:12:39.869306 nspr-3   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:12:39.869918 nspr-3   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:12:40.151214 nspr-6   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:12:40.151983 nspr-6   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:12:40.359007 nspr-6   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:12:40.359503 nspr-4   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:12:40.359648 nspr-4   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={70401eef-c8e9-466b-9660-45cb3e9979e4} aComponent={ExtPackManagerWrap} aText={No extension pack by the name 'Oracle VM VirtualBox Extension Pack' was found}, preserve=false aResultDetail=0
+00:12:40.416294 nspr-4   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:12:40.416687 nspr-6   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:12:40.446447 nspr-3   ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+00:12:40.473918 nspr-3   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlo1: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:12:40.530452 nspr-5   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:12:41.328438 nspr-6   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:12:41.328903 nspr-5   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:37:43.383789 nspr-6   Saving settings file "/home/icecream/VirtualBox VMs/Kali/Kali.vbox" with version "1.16-linux"
+00:37:43.526240 nspr-6   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:37:43.526674 nspr-4   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:41:25.073444 nspr-6   Saving settings file "/home/icecream/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:41:55.511826 nspr-3   Saving settings file "/home/icecream/VirtualBox VMs/Kali/Kali.vbox" with version "1.16-linux"
+00:41:55.607387 nspr-2   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:41:55.607812 nspr-6   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:46:39.228228 nspr-3   Saving settings file "/home/icecream/VirtualBox VMs/Kali/Kali.vbox" with version "1.16-linux"
+00:46:39.293724 nspr-2   ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+00:46:39.295821 nspr-5   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:46:39.296383 nspr-7   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:47:56.314381 nspr-2   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:47:56.315023 nspr-6   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:47:56.502635 nspr-5   Saving settings file "/home/icecream/VirtualBox VMs/Kali/Kali.vbox" with version "1.16-linux"
+00:47:56.508003 nspr-2   Saving settings file "/home/icecream/VirtualBox VMs/Kali/Kali.vbox" with version "1.16-linux"
+00:47:56.610908 nspr-5   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:47:56.611484 nspr-6   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:47:57.270011 nspr-5   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:47:57.270457 nspr-5   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:50:50.108766 nspr-2   Saving settings file "/home/icecream/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:50:50.112928 nspr-3   Saving settings file "/home/icecream/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:50:50.116586 nspr-6   Saving settings file "/home/icecream/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:50:55.623932 main     VirtualBox: object deletion starts
+00:50:55.623967 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium '/home/icecream/VirtualBox VMs/windows/windows.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:50:55.624129 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium '/home/icecream/VirtualBox VMs/Kali/Kali.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:50:55.624368 main     HostDnsMonitor: shutting down ...
+00:50:55.628036 main     HostDnsMonitor: shut down
+00:50:56.040509 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={d0a0163f-e254-4e5b-a1f2-011cf991c38d} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:51:00.628117 main     {00007fab20019500} HostPowerServiceLinux::~HostPowerServiceLinux: RTThreadWait() for 5000 ms failed with VERR_TIMEOUT
+00:51:00.628515 main     VirtualBox: object deleted

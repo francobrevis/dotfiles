@@ -1,0 +1,7 @@
+2021/11/23-23:45:21.506 14bb8 Recovering log #3
+2021/11/23-23:45:21.988 14bb8 Level-0 table #5: started
+2021/11/23-23:45:22.131 14bb8 Level-0 table #5: 2784294 bytes OK
+2021/11/23-23:45:22.141 14bb8 Recovering log #8
+2021/11/23-23:45:22.145 14bb8 Delete type=0 #8
+2021/11/23-23:45:22.145 14bb8 Delete type=0 #3
+2021/11/23-23:45:22.145 14bb8 Delete type=3 #2

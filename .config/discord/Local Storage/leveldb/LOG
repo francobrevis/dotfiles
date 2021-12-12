@@ -1,0 +1,6 @@
+2021/12/12-02:36:18.768 58796 Reusing MANIFEST /home/icecream/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2021/12/12-02:36:18.768 58796 Recovering log #15
+2021/12/12-02:36:18.769 58796 Reusing old log /home/icecream/.config/discord/Local Storage/leveldb/000015.log 
+2021/12/12-02:37:20.023 58797 Level-0 table #19: started
+2021/12/12-02:37:20.041 58797 Level-0 table #19: 121622 bytes OK
+2021/12/12-02:37:20.042 58797 Delete type=0 #15

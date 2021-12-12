@@ -1,0 +1,19 @@
+2021/11/11-21:25:38.712 18ce6 Reusing MANIFEST /home/icecream/.config/Postman/Partitions/6b534ea1-134f-48fc-8dc8-73ac1f457cf6/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2021/11/11-21:25:38.739 18ca7 Level-0 table #5: started
+2021/11/11-21:25:38.740 18ca7 Level-0 table #5: 494 bytes OK
+2021/11/11-21:25:38.743 18ca7 Delete type=0 #3
+2021/11/11-21:25:38.743 18ca7 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/11/11-21:25:38.798 18ca5 Level-0 table #7: started
+2021/11/11-21:25:38.800 18ca5 Level-0 table #7: 476 bytes OK
+2021/11/11-21:25:38.802 18ca5 Delete type=0 #4
+2021/11/11-21:25:38.803 18ca5 Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/11/11-21:25:38.815 18cc2 Level-0 table #9: started
+2021/11/11-21:25:38.817 18cc2 Level-0 table #9: 474 bytes OK
+2021/11/11-21:25:38.821 18cc2 Delete type=0 #6
+2021/11/11-21:25:38.821 18cc2 Manual compaction at level-0 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at '\x00\x03\x00\x00\x05' @ 43 : 1
+2021/11/11-21:25:38.821 18cc2 Compacting 1@0 + 1@1 files
+2021/11/11-21:25:38.822 18cc2 Generated table #10@0: 13 keys, 422 bytes
+2021/11/11-21:25:38.822 18cc2 Compacted 1@0 + 1@1 files => 422 bytes
+2021/11/11-21:25:38.826 18cc2 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/11/11-21:25:38.826 18cc2 Delete type=2 #9
+2021/11/11-21:25:38.826 18cc2 Manual compaction at level-0 from '\x00\x03\x00\x00\x05' @ 43 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)

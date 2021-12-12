@@ -32,7 +32,9 @@ user_owns = datos['profile']['user_owns']
 
 fichero = open('datastatus.txt', 'w')
 
-salida = name + " |  "+rank+" |  "+points+" |  "+team+" |  " + respects
+#salida = name + " |  "+rank+" |  "+points+" |  "+team+" |  " + respects
+#salida = name + " |  "+rank+" |  "+points
+salida = name + "   "+rank+"   "+points
 
 print(salida)
 fichero.write(salida)
